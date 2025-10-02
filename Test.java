@@ -7,5 +7,6 @@ public class Test {
         double b = 67;
 
         double hasil = a * b;
+        System.out.println("Hasil");
     }
 }
