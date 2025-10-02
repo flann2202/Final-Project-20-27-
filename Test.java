@@ -4,7 +4,7 @@ public class Test {
         System.out.println("Hi, ini baris pertama saya");
         System.out.println("user 27 menambahkan baris baru");
         double a = 56;
-        double b = 43;
+        double b = 67;
 
         double hasil = a * b;
     }
